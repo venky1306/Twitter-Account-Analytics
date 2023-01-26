@@ -1,6 +1,6 @@
 import requests
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAJiDlAEAAAAAiws20TtnnDRl%2F6i0ONDAKogh7cY%3Deee6F58LpWuDRPzYKpDodWB8tErvhXzvhlv9Z4vWFbJFcFCUn9"
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAJiDlAEAAAAAiws20TtnnDRl%2F6i0ONDAKogh7cY%3Deee6F58LpWuDRPzYKpDodWB8tErvhXzvhlv9Z4vWFbJ*******"
 
 
 def create_url(user_id):
