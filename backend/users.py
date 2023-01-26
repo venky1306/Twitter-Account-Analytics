@@ -1,7 +1,7 @@
 import requests
 
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAJiDlAEAAAAAiws20TtnnDRl%2F6i0ONDAKogh7cY%3Deee6F58LpWuDRPzYKpDodWB8tErvhXzvhlv9Z4vWFbJFcFCUn9"
+bearer_token = "AAAAAAAAAAAAAAAAAAAAAJiDlAEAAAAAiws20TtnnDRl%2F6i0ONDAKogh7cY%3Deee6F58LpWuDRPzYKpDodWB8tErvhXzvhlv9Z4vWFbJ*******"
 
 users = ["BarackObama","elonmusk",'justinbieber','katyperry','rihanna','Cristiano','taylorswift13',
             'realDonaldTrump','narendramodi','ladygaga','YouTube','EllenDeGeneres','KimKardashian','NASA',
